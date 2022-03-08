@@ -1,5 +1,8 @@
 .main-box {
-    margin: 10px 0px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     justify-items: center;

@@ -1,0 +1,11 @@
+.my-footer p {
+    text-align: center;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-content {
+    color: white;
+    background: black;
+}
