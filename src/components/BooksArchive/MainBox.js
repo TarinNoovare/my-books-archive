@@ -1,5 +1,5 @@
 import "./MainBox.css";
-import FlipCard from "./FlipCard";
+import FlipCard from "../UI/FlipCard";
 
 function MainBox() {
   return (

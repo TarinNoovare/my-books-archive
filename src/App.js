@@ -1,7 +1,7 @@
 import "./App.css";
-import MainBox from "./components/MainBox";
-import ReadingProgress from "./components/ReadingProgress";
-import Footer from "./components/Footer";
+import MainBox from "./components/BooksArchive/MainBox";
+import ReadingProgress from "./components/BooksArchive/ReadingProgress";
+import Footer from "./components/UI/Footer";
 
 function App() {
   return (
